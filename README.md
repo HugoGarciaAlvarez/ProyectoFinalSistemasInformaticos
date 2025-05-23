@@ -1,3 +1,3 @@
 # Fotos
 
-Imagenes del desarrollo del proyecyo
+Imágenes del desarrollo del proyecyo
